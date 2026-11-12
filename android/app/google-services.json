@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296670780828",
+    "project_id": "midterm-danentang-2d665",
+    "storage_bucket": "midterm-danentang-2d665.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296670780828:android:463178a1059c8f4d977c59",
+        "android_client_info": {
+          "package_name": "com.example.mid_danentang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKWV6k4UGK7j025CRaSuC41OfEzOJ7Erk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
